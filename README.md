@@ -1,8 +1,8 @@
 ## Welcome to my GitHub, I'm João - aka Yasuki
 I am a student passionate about technology and my favorite languages are Java and JavaScript.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/yaasuki0?color=%231DA1F2&logo=twitter&style=for-the-badge)
-![Discord](https://img.shields.io/discord/780275123281985578?color=%237289DA&label=JOIN%20OUR%20GROUP&logo=discord&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yaasuki0?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=yaasuki0)
+[![Discord](https://img.shields.io/discord/780275123281985578?color=%237289DA&label=JOIN%20OUR%20GROUP&logo=discord&style=for-the-badge)](https://discord.gg/fHeyfpwJyP)
 
 <img alt="Awesome GitHub Profile Readme" src="assets/nick.gif"> </img>
 
