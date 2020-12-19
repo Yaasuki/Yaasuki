@@ -18,7 +18,7 @@ I'm a student passionate about technology and my favorite languages are Java and
 
 ## Top Technologies:
 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) 
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](https://github.com/Yaasuki/YasukisMobs) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](https://github.com/Yaasuki/gadreel)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](https://github.com/Yaasuki/gadreel) 
 
@@ -29,6 +29,6 @@ I'm a student passionate about technology and my favorite languages are Java and
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-ZenScript-00ADD8?style=for-the-badge&labelColor=black&logo=curseforge&logoColor=00ADD8)](https://github.com/Yaasuki/dromedary) 
+[![ZS Badge](https://img.shields.io/badge/-ZenScript-00ADD8?style=for-the-badge&labelColor=black&logo=curseforge&logoColor=00ADD8)](https://github.com/Yaasuki/dromedary) 
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#) 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)](#) 
