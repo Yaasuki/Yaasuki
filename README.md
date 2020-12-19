@@ -18,7 +18,7 @@ I'm a student passionate about technology and my favorite languages are Java and
 
 ## Top Technologies:
 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](https://github.com/Yaasuki/YasukisMobs) 
+[![Java Badge](https://img.shields.io/badge/-Java-F89820?style=for-the-badge&labelColor=black&logo=java&logoColor=F89820)](https://github.com/Yaasuki/YasukisMobs) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](https://github.com/Yaasuki/gadreel)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](https://github.com/Yaasuki/gadreel) 
 
