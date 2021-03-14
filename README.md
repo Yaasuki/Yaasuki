@@ -14,15 +14,3 @@ I'm a student passionate about technology and my favorite languages are Java and
 
 [![Steam Badge](https://img.shields.io/badge/-Steam-181717?style=for-the-badge&labelColor=black&logo=steam&logoColor=FFFFFF)](https://steamcommunity.com/id/yaasuki/)
 [![CurseForge Badge](https://img.shields.io/badge/-CurseForge-181717?style=for-the-badge&labelColor=black&logo=curseforge&logoColor=FFFFFF)](https://www.curseforge.com/members/yasuki0/projects) 
-
-## Top Technologies:
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#) 
-
-## Other Technologies:
-
-[![Csharp Badge](https://img.shields.io/badge/-C_SHARP-239120?style=for-the-badge&labelColor=black&logo=c&logoColor=239120)](#) 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#) 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)](#) 
