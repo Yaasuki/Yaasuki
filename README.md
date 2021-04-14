@@ -1,5 +1,5 @@
 ## Welcome to my GitHub, I'm João - aka Yasuki
-I'm a student passionate about technology and my favorite languages are Java and JavaScript.
+I'm a student passionate about technology and my favorite languages are C# and JavaScript.
 
 ### Reach me:
 
